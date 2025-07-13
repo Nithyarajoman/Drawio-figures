@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="Page-1" id="mSCrcHiy_M-U9cj9anIV">
-    <mxGraphModel dx="240" dy="137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="242" dy="139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,11 +76,12 @@
           <mxGeometry x="632" y="1148" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SvVKt492CZ6028g6mfod-125" value="&lt;b&gt;&lt;font&gt;MEMORY&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#ededed, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="471" y="942" width="60" height="71" as="geometry" />
+          <mxGeometry x="471" y="920" width="60" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="SvVKt492CZ6028g6mfod-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SvVKt492CZ6028g6mfod-125" edge="1">
+        <mxCell id="SvVKt492CZ6028g6mfod-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="501" y="873" as="targetPoint" />
+            <mxPoint x="501" y="920" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fLmIZQSv84yg8my2Koo1-14" value="" style="group" vertex="1" connectable="0" parent="1">
