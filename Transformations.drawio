@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="Page-1" id="nOCRgtnf3OO0YPdjOFGx">
-    <mxGraphModel dx="1882" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="simple">
+    <mxGraphModel dx="1075" dy="1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="simple">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -584,6 +584,21 @@
         </mxCell>
         <mxCell id="Uh95agxEUosQ2VYnLe-K-198" value="&lt;b&gt;Chosen for encoding&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="251" y="757" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-199" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=xor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="255.5" y="859" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-200" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=xor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="384" y="859" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-201" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=xor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="445" y="859" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-202" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="363" y="880" as="sourcePoint" />
+            <mxPoint x="303" y="880" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
