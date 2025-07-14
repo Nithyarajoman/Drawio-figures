@@ -167,6 +167,54 @@
         <mxCell id="Uh95agxEUosQ2VYnLe-K-64" value="&lt;b&gt;Increasing probability of zeroes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="321" y="268" width="190" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-67" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Uh95agxEUosQ2VYnLe-K-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="280" as="sourcePoint" />
+            <mxPoint x="470" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-68" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="299" as="sourcePoint" />
+            <mxPoint x="120" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-69" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59" y="319" as="sourcePoint" />
+            <mxPoint x="119" y="319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-70" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="338" as="sourcePoint" />
+            <mxPoint x="120" y="338" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-71" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="359" as="sourcePoint" />
+            <mxPoint x="120" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-72" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="380" as="sourcePoint" />
+            <mxPoint x="120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-73" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="399" as="sourcePoint" />
+            <mxPoint x="120" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uh95agxEUosQ2VYnLe-K-74" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.001;entryY=0.124;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="419" as="sourcePoint" />
+            <mxPoint x="120" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
