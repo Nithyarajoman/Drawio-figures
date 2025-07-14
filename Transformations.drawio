@@ -8,7 +8,7 @@
           <mxGeometry x="340" y="390" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="Uh95agxEUosQ2VYnLe-K-129" value="&lt;b&gt;GROUP 2&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 79, 128), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;if x&lt;sub&gt;7&lt;/sub&gt;&amp;nbsp;= 0:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 79, 128), rgb(237, 237, 237));&quot;&gt;4 Bits are grouped [x&lt;sub&gt;6&lt;/sub&gt;x&lt;sub&gt;5&lt;/sub&gt;x&lt;sub&gt;4&lt;/sub&gt;x&lt;sub&gt;3&lt;/sub&gt;]&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="390" y="460" width="140" height="75" as="geometry" />
+          <mxGeometry x="390" y="463" width="140" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Uh95agxEUosQ2VYnLe-K-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ededed, #ededed);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-25" width="500" height="200" as="geometry" />
