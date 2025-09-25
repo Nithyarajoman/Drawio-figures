@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="WwWCU1mMd6vzGCUQ_W4N">
-    <mxGraphModel dx="496" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,16 +121,16 @@
             <mxPoint x="647.115" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LIOro2nzg90wckjojLs--33" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;PARALLEL INTERCONNECT&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F6D6C2;strokeColor=#D47264;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="LIOro2nzg90wckjojLs--33" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;PARALLEL / HIGH BANDWITH INTERCONNECT&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F6D6C2;strokeColor=#D47264;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="570" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LIOro2nzg90wckjojLs--34" value="&lt;b&gt;MEMORY&lt;/b&gt;&lt;div&gt;&lt;b&gt;(weights and activations)&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#d1d1d1, #202020);strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="LIOro2nzg90wckjojLs--34" value="&lt;b&gt;LOCAL MEMORY&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#d1d1d1, #202020);strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LIOro2nzg90wckjojLs--35" value="&lt;b&gt;MEMORY&lt;/b&gt;&lt;div&gt;&lt;b&gt;(weights and activations)&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#d1d1d1, #202020);strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="LIOro2nzg90wckjojLs--35" value="&lt;b&gt;LOCAL MEMORY&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#d1d1d1, #202020);strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LIOro2nzg90wckjojLs--36" value="&lt;b&gt;MEMORY&lt;/b&gt;&lt;div&gt;&lt;b&gt;(weights and activations)&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#d1d1d1, #202020);strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="LIOro2nzg90wckjojLs--36" value="&lt;b&gt;LOCAL MEMORY&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#d1d1d1, #202020);strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="610" y="320" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LIOro2nzg90wckjojLs--38" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startFill=1;" edge="1" parent="1">
@@ -150,6 +150,15 @@
             <mxPoint x="690" y="399" as="sourcePoint" />
             <mxPoint x="690.115" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LIOro2nzg90wckjojLs--41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="479.58000000000004" y="489" as="sourcePoint" />
+            <mxPoint x="479.69500000000005" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIOro2nzg90wckjojLs--42" value="&lt;b&gt;DEDICATED / UNIFIED MEMORY&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#d1d1d1, #202020);strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="370" y="490" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
