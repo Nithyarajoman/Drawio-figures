@@ -333,7 +333,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3L6kZymkagLDjjP03V1E-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Partial Entropy Decoder&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="208" y="1150" width="180" height="30" as="geometry" />
+          <mxGeometry x="210" y="1170" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3L6kZymkagLDjjP03V1E-18" value="&lt;b&gt;MEMORY&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#e1dfdf, #1a1a1a);strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="79" y="1210" width="89" height="190" as="geometry" />
