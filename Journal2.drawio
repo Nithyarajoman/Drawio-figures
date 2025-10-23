@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="Page-1" id="RD2lEjMg1r9ExISt4TI4">
-    <mxGraphModel dx="496" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="347" dy="199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -204,6 +204,27 @@
             <mxPoint x="900" y="638" as="sourcePoint" />
             <mxPoint x="840" y="605" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Bq_CaRP_6u7lmJN5WJHq-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="767" y="560" as="sourcePoint" />
+            <mxPoint x="767" y="601" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bq_CaRP_6u7lmJN5WJHq-32" value="&lt;b&gt;ACTIVATIONS&lt;/b&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="677" y="481" width="130" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq_CaRP_6u7lmJN5WJHq-33" value="&lt;i&gt;activations_data_out&lt;/i&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="795" y="560" width="58" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bq_CaRP_6u7lmJN5WJHq-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="738" y="560" as="sourcePoint" />
+            <mxPoint x="738" y="601" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bq_CaRP_6u7lmJN5WJHq-35" value="&lt;i&gt;valid_out&lt;/i&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="681" y="559" width="58" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
