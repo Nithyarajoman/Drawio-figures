@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="rDOe_RWHUl-UcMfI-KOx">
-    <mxGraphModel dx="1882" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2258" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,13 +202,13 @@
             <mxPoint x="840" y="121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fknB8MZ-Wd1HdGc9B77b-7" value="&lt;b&gt;&lt;font&gt;W&lt;sub style=&quot;&quot;&gt;0&lt;/sub&gt;, W&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, ..... W&lt;sub style=&quot;&quot;&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(12, 90, 21);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;0&lt;/font&gt; Channel&lt;sub&gt;out&lt;/sub&gt;0&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-7" value="&lt;b&gt;&lt;font&gt;W&lt;sub style=&quot;&quot;&gt;0&lt;/sub&gt;, W&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, ..... W&lt;sub style=&quot;&quot;&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(12, 90, 21);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;0&lt;/font&gt; &lt;font style=&quot;color: light-dark(rgb(73, 42, 147), rgb(237, 237, 237));&quot;&gt;Channel&lt;sub&gt;out&lt;/sub&gt;0&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fknB8MZ-Wd1HdGc9B77b-8" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(12, 90, 21);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;0&lt;/font&gt; Channel&lt;sub&gt;out&lt;/sub&gt;1&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-8" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(12, 90, 21);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;0&lt;/font&gt; &lt;font style=&quot;color: rgb(73, 42, 147);&quot;&gt;Channel&lt;sub&gt;out&lt;/sub&gt;1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="260" width="158" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fknB8MZ-Wd1HdGc9B77b-9" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(12, 90, 21);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;0&lt;/font&gt; Channel&lt;sub&gt;out&lt;/sub&gt;2&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-9" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(12, 90, 21);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;0&lt;/font&gt; &lt;font style=&quot;color: rgb(73, 42, 147);&quot;&gt;Channel&lt;sub&gt;out&lt;/sub&gt;2&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="439" y="260" width="158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fknB8MZ-Wd1HdGc9B77b-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fknB8MZ-Wd1HdGc9B77b-11">
@@ -217,7 +217,7 @@
             <mxPoint x="678" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fknB8MZ-Wd1HdGc9B77b-11" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(12, 90, 21);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;0 &lt;/font&gt;Channel&lt;sub&gt;out&lt;/sub&gt;Co&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-11" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(12, 90, 21);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;0 &lt;/font&gt;&lt;font style=&quot;color: rgb(73, 42, 147);&quot;&gt;Channel&lt;sub&gt;out&lt;/sub&gt;Co&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="669" y="259" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fknB8MZ-Wd1HdGc9B77b-12" value="&lt;b&gt;&lt;font&gt;X&lt;sub style=&quot;&quot;&gt;0&lt;/sub&gt;, X&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, ..... X&lt;sub style=&quot;&quot;&gt;n &lt;/sub&gt;&lt;font style=&quot;color: light-dark(rgb(145, 13, 13), rgb(237, 237, 237));&quot;&gt;Channel&lt;sub style=&quot;&quot;&gt;in&lt;/sub&gt;1&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -289,10 +289,10 @@
             <mxPoint x="1643" y="179.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fknB8MZ-Wd1HdGc9B77b-25" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(145, 13, 13);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;1&lt;/font&gt; Channel&lt;sub&gt;out&lt;/sub&gt;1&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-25" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(145, 13, 13);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;1&lt;/font&gt; &lt;font style=&quot;color: rgb(73, 42, 147);&quot;&gt;Channel&lt;sub&gt;out&lt;/sub&gt;1&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1003" y="259" width="158" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fknB8MZ-Wd1HdGc9B77b-26" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(145, 13, 13);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;1&lt;/font&gt; Channel&lt;sub&gt;out&lt;/sub&gt;2&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-26" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(145, 13, 13);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;1&lt;/font&gt; &lt;font style=&quot;color: rgb(73, 42, 147);&quot;&gt;Channel&lt;sub&gt;out&lt;/sub&gt;2&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1162" y="259" width="158" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fknB8MZ-Wd1HdGc9B77b-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
@@ -301,10 +301,10 @@
             <mxPoint x="1392" y="279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fknB8MZ-Wd1HdGc9B77b-28" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(145, 13, 13);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;1&lt;/font&gt; Channel&lt;sub&gt;out&lt;/sub&gt;Co&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-28" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(145, 13, 13);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;1&lt;/font&gt; &lt;font style=&quot;color: rgb(73, 42, 147);&quot;&gt;Channel&lt;sub&gt;out&lt;/sub&gt;Co&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1392" y="259" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fknB8MZ-Wd1HdGc9B77b-29" value="&lt;b&gt;&lt;font&gt;W&lt;sub style=&quot;&quot;&gt;0&lt;/sub&gt;, W&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, ..... W&lt;sub style=&quot;&quot;&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(145, 13, 13);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;1&lt;/font&gt; Channel&lt;sub&gt;out&lt;/sub&gt;0&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-29" value="&lt;b&gt;&lt;font&gt;W&lt;sub style=&quot;&quot;&gt;0&lt;/sub&gt;, W&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, ..... W&lt;sub style=&quot;&quot;&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;&lt;font style=&quot;color: rgb(145, 13, 13);&quot;&gt;Channel&lt;sub&gt;in&lt;/sub&gt;1&lt;/font&gt; &lt;font style=&quot;color: rgb(73, 42, 147);&quot;&gt;Channel&lt;sub&gt;out&lt;/sub&gt;0&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="842" y="259" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fknB8MZ-Wd1HdGc9B77b-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
@@ -312,6 +312,15 @@
             <mxPoint x="1563" y="279.83" as="sourcePoint" />
             <mxPoint x="1643" y="279.83" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-31" value="&lt;b&gt;CLK&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="69" y="90" width="60" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-32" value="&lt;b&gt;ACTIVATIONS&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="32" y="165.5" width="76" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-33" value="&lt;b&gt;WEIGHTS&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="52" y="260" width="60" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
