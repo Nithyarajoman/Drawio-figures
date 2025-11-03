@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="rDOe_RWHUl-UcMfI-KOx">
-    <mxGraphModel dx="1882" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="753" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -300,8 +300,8 @@
         </mxCell>
         <mxCell id="fknB8MZ-Wd1HdGc9B77b-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1559" y="179.5" as="sourcePoint" />
-            <mxPoint x="1639" y="179.5" as="targetPoint" />
+            <mxPoint x="1561" y="179.5" as="sourcePoint" />
+            <mxPoint x="1641" y="179.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fknB8MZ-Wd1HdGc9B77b-25" value="&lt;b&gt;W&lt;sub&gt;0&lt;/sub&gt;, W&lt;sub&gt;1&lt;/sub&gt;, ..... W&lt;sub&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Channel&lt;sub&gt;in&lt;/sub&gt;1 Channel&lt;sub&gt;out&lt;/sub&gt;1&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
@@ -321,6 +321,12 @@
         </mxCell>
         <mxCell id="fknB8MZ-Wd1HdGc9B77b-29" value="&lt;b&gt;&lt;font&gt;W&lt;sub style=&quot;&quot;&gt;0&lt;/sub&gt;, W&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;, ..... W&lt;sub style=&quot;&quot;&gt;m&amp;nbsp;&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font&gt;Channel&lt;sub&gt;in&lt;/sub&gt;1 Channel&lt;sub&gt;out&lt;/sub&gt;0&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fknB8MZ-Wd1HdGc9B77b-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1561" y="279.83" as="sourcePoint" />
+            <mxPoint x="1641" y="279.83" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
