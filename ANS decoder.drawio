@@ -568,7 +568,7 @@
           <mxGeometry x="660" y="-310" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2c5RPv4Ahy46tvurMC96-124" value="&lt;font size=&quot;1&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;ANS DECODER&lt;/b&gt;&lt;/font&gt;" style="verticalAlign=top;align=center;shape=cube;size=30;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;rounded=1;fillColor=#d0cee2;strokeColor=#56517e;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-950" width="690" height="430" as="geometry" />
+          <mxGeometry x="550" y="-960" width="690" height="440" as="geometry" />
         </mxCell>
         <mxCell id="2c5RPv4Ahy46tvurMC96-125" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CUMULATIVE&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;INVERSE&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;rounded=1;fillColor=#95F0E1;strokeColor=#10739e;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="891" y="-848" width="115" height="80" as="geometry" />
