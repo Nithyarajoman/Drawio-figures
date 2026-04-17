@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Page-1" id="kKW40RGhzxt-nA1hXfdI">
-    <mxGraphModel dx="154" dy="57" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="122" dy="46" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -921,7 +921,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kVep5UTk5G5rUpMMuYtu-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=light-dark(#000000, #6d5100);" value="&lt;font size=&quot;1&quot;&gt;SKIP ZERO&lt;/font&gt;" vertex="1">
-          <mxGeometry height="12" width="88" x="760" y="2449" as="geometry" />
+          <mxGeometry height="12" width="88" x="688" y="2373" as="geometry" />
         </mxCell>
         <mxCell id="kVep5UTk5G5rUpMMuYtu-135" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=light-dark(#000000, #6d5100);" value="&lt;font size=&quot;1&quot;&gt;&amp;gt;/&amp;lt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="11" width="32" x="688" y="2391" as="geometry" />
@@ -960,7 +960,7 @@
           <mxGeometry height="12" width="69" x="639" y="2442" as="geometry" />
         </mxCell>
         <mxCell id="kVep5UTk5G5rUpMMuYtu-143" parent="1" style="shape=ellipse;fillColor=light-dark(#000000, #51a8ff);strokeColor=none;html=1;sketch=0;strokeWidth=6;fontSize=14;spacing=4;" value="" vertex="1">
-          <mxGeometry height="4" width="4" x="669" y="2419" as="geometry" />
+          <mxGeometry height="4" width="4" x="669" y="2418" as="geometry" />
         </mxCell>
         <mxCell id="kVep5UTk5G5rUpMMuYtu-144" parent="1" style="shape=ellipse;fillColor=light-dark(#000000, #51a8ff);strokeColor=none;html=1;sketch=0;strokeWidth=6;fontSize=14;spacing=4;" value="" vertex="1">
           <mxGeometry height="4" width="4" x="669" y="2394" as="geometry" />
@@ -975,7 +975,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kVep5UTk5G5rUpMMuYtu-148" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.multiplier;fillColor=#fff2cc;strokeColor=light-dark(#000000, #6d5100);" value="" vertex="1">
-          <mxGeometry height="24" width="22" x="689" y="2409" as="geometry" />
+          <mxGeometry height="24" width="22" x="689" y="2408" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
