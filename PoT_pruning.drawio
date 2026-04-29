@@ -2519,12 +2519,12 @@
         </mxCell>
         <mxCell id="_zDl9E3AFTPzhH82yiCz-130" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="244" y="4211" as="sourcePoint" />
-            <mxPoint x="324" y="4211" as="targetPoint" />
+            <mxPoint x="230" y="4210" as="sourcePoint" />
+            <mxPoint x="324" y="4210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_zDl9E3AFTPzhH82yiCz-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Compression" vertex="1">
-          <mxGeometry height="30" width="60" x="249" y="4190" as="geometry" />
+        <mxCell id="_zDl9E3AFTPzhH82yiCz-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Weight Compression" vertex="1">
+          <mxGeometry height="30" width="60" x="246" y="4194" as="geometry" />
         </mxCell>
         <mxCell id="_zDl9E3AFTPzhH82yiCz-132" parent="1" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=default;" value="" vertex="1">
           <mxGeometry height="100" width="103" x="327" y="4160" as="geometry" />
