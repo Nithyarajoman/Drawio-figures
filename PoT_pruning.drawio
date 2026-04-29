@@ -1819,7 +1819,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qQRn5tKw4pSold455m6P-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#cdeb8b, #4a890c);strokeColor=#2D7600;verticalAlign=top;align=center;fontColor=#ffffff;" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b&gt;PE&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="494" width="181" x="577" y="3578" as="geometry" />
+          <mxGeometry height="492" width="181" x="577" y="3578" as="geometry" />
         </mxCell>
         <mxCell id="qQRn5tKw4pSold455m6P-2" edge="1" parent="1" source="qQRn5tKw4pSold455m6P-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.988;exitY=0.542;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
