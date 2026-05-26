@@ -1029,6 +1029,24 @@
         <mxCell id="E6aztDx5CfD3BSh15bbr-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="valid_in_pe" vertex="1">
           <mxGeometry height="30" width="60" x="50" y="2628" as="geometry" />
         </mxCell>
+        <mxCell id="E6aztDx5CfD3BSh15bbr-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;exitX=0;exitY=0.224;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="2650" as="sourcePoint" />
+            <mxPoint x="354" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E6aztDx5CfD3BSh15bbr-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;valid_in&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="71" x="245" y="2628" as="geometry" />
+        </mxCell>
+        <mxCell id="E6aztDx5CfD3BSh15bbr-33" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=-0.001;entryY=0.282;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#6D5100;" target="E6aztDx5CfD3BSh15bbr-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="2830" />
+            </Array>
+            <mxPoint x="90" y="2650" as="sourcePoint" />
+            <mxPoint x="323.14599999999996" y="2788.1699999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
