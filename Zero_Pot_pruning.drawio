@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="2OIKqBRqBEgFzjfAa9Ns">
-    <mxGraphModel dx="963" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1701" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -917,10 +917,10 @@
         <mxCell id="E6aztDx5CfD3BSh15bbr-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4FFB9;strokeColor=#000000;strokeWidth=2;arcSize=16;" value="" vertex="1">
           <mxGeometry height="580" width="587" x="140" y="2450" as="geometry" />
         </mxCell>
-        <mxCell id="E6aztDx5CfD3BSh15bbr-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MULTIPLIER" vertex="1">
-          <mxGeometry height="200" width="167.25" x="352.75" y="2520" as="geometry" />
+        <mxCell id="E6aztDx5CfD3BSh15bbr-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#E6E6E6;" value="&lt;b&gt;MULTIPLIER&lt;/b&gt;" vertex="1">
+          <mxGeometry height="200" width="167.25" x="354.91" y="2521" as="geometry" />
         </mxCell>
-        <mxCell id="E6aztDx5CfD3BSh15bbr-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SHIFTER" vertex="1">
+        <mxCell id="E6aztDx5CfD3BSh15bbr-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" value="&lt;b&gt;SHIFTER&lt;/b&gt;" vertex="1">
           <mxGeometry height="210" width="167.25" x="352.75" y="2770" as="geometry" />
         </mxCell>
         <mxCell id="E6aztDx5CfD3BSh15bbr-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
