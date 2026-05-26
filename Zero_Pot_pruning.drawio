@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="2OIKqBRqBEgFzjfAa9Ns">
-    <mxGraphModel dx="851" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="709" dy="266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -954,10 +954,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E6aztDx5CfD3BSh15bbr-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="clk" vertex="1">
-          <mxGeometry height="30" width="60" x="60" y="2650" as="geometry" />
+          <mxGeometry height="30" width="60" x="72" y="2649" as="geometry" />
         </mxCell>
         <mxCell id="E6aztDx5CfD3BSh15bbr-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="rst" vertex="1">
-          <mxGeometry height="30" width="60" x="60" y="2670" as="geometry" />
+          <mxGeometry height="30" width="60" x="72" y="2669" as="geometry" />
         </mxCell>
         <mxCell id="E6aztDx5CfD3BSh15bbr-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -972,7 +972,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E6aztDx5CfD3BSh15bbr-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="data (1D)" vertex="1">
-          <mxGeometry height="30" width="60" x="60" y="2560" as="geometry" />
+          <mxGeometry height="30" width="60" x="55" y="2558" as="geometry" />
         </mxCell>
         <mxCell id="E6aztDx5CfD3BSh15bbr-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;data (8b)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="250" y="2559" as="geometry" />
@@ -990,7 +990,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E6aztDx5CfD3BSh15bbr-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="weight (1D)" vertex="1">
-          <mxGeometry height="30" width="70" x="50" y="2579" as="geometry" />
+          <mxGeometry height="30" width="70" x="44" y="2578" as="geometry" />
         </mxCell>
         <mxCell id="E6aztDx5CfD3BSh15bbr-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;weight (8b)&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="71" x="240" y="2578" as="geometry" />
