@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="EEemI3lQTVRUuLWdFSrT">
-    <mxGraphModel dx="412" dy="154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="608" dy="226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,10 +63,10 @@
           <mxGeometry height="30" width="80" x="713" y="95" as="geometry" />
         </mxCell>
         <mxCell id="ZZCnf9JidqZ5eUs12BTZ-14" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="&lt;b&gt;&lt;font&gt;DATA&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="100" width="100" x="29" y="318" as="geometry" />
+          <mxGeometry height="100" width="100" x="24" y="318" as="geometry" />
         </mxCell>
         <mxCell id="ZZCnf9JidqZ5eUs12BTZ-15" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" value="&lt;b&gt;&lt;font&gt;LOW POWER TRANSFORMATION&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="150" width="140" x="161" y="300" as="geometry" />
+          <mxGeometry height="150" width="141" x="160" y="300" as="geometry" />
         </mxCell>
         <mxCell id="ZZCnf9JidqZ5eUs12BTZ-16" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=40;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=2;">
           <mxGeometry relative="1" as="geometry">
@@ -143,8 +143,11 @@
         <mxCell id="ZZCnf9JidqZ5eUs12BTZ-29" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#e1dfdf, #1a1a1a);strokeColor=#666666;fontColor=#333333;" value="&lt;b&gt;MEMORY&lt;/b&gt;" vertex="1">
           <mxGeometry height="190" width="89" x="693" y="285" as="geometry" />
         </mxCell>
-        <mxCell id="ZZCnf9JidqZ5eUs12BTZ-30" edge="1" parent="1" source="ZZCnf9JidqZ5eUs12BTZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=60;exitPerimeter=0;entryX=-0.009;entryY=0.521;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" target="ZZCnf9JidqZ5eUs12BTZ-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZZCnf9JidqZ5eUs12BTZ-30" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=60;exitPerimeter=0;entryX=-0.009;entryY=0.521;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="124" y="378" as="sourcePoint" />
+            <mxPoint x="159.74" y="378.1500000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZZCnf9JidqZ5eUs12BTZ-31" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="&lt;b&gt;&lt;font&gt;DATA&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="82" y="600" as="geometry" />
