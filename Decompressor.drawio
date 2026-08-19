@@ -1712,7 +1712,7 @@
             <mxPoint x="550.2769999999996" y="4156.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="elsTazgjm2m5A3E5bi10-15" parent="1" style="shape=or;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+        <mxCell id="elsTazgjm2m5A3E5bi10-15" parent="1" style="shape=or;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="30" width="20" x="669" y="3904" as="geometry" />
         </mxCell>
         <mxCell id="elsTazgjm2m5A3E5bi10-16" edge="1" parent="1" style="endArrow=classicThin;startArrow=none;endFill=1;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=2;shadow=0;sketch=0;fontColor=#000000;fillColor=#008a00;strokeColor=#3700CC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.017;entryY=0.182;entryDx=0;entryDy=0;entryPerimeter=0;" target="elsTazgjm2m5A3E5bi10-15" value="">
