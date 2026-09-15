@@ -6537,7 +6537,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OAjkcVAen7dC8-b7UtHd-143" parent="1" style="whiteSpace=wrap;html=1;fillColor=#CDE1EC;strokeColor=#8EC1DA;horizontal=0;" value="&lt;b&gt;DECODER&lt;/b&gt;" vertex="1">
-          <mxGeometry height="94.99" width="23" x="207" y="9147.06" as="geometry" />
+          <mxGeometry height="94.99" width="35" x="207" y="9147.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
