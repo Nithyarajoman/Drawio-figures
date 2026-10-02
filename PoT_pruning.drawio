@@ -6629,7 +6629,7 @@
           <mxGeometry height="80" width="20" x="1037" y="1808" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;spacing=1;horizontal=0;rotation=-180;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;values&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="10" x="1029" y="1805" as="geometry" />
+          <mxGeometry height="80" width="10" x="1031" y="1805" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
