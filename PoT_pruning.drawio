@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="kKW40RGhzxt-nA1hXfdI">
-    <mxGraphModel dx="922" dy="189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="2272" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7154,6 +7154,36 @@
             <mxPoint x="819.9499999999994" y="10260.046" as="sourcePoint" />
             <mxPoint x="820.0460000000007" y="10156.050000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-184" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;N&lt;sub&gt;x&lt;/sub&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="30" x="797" y="10206" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-186" edge="1" parent="1" source="_T9D29cwmJARafUkA6Xj-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_T9D29cwmJARafUkA6Xj-160" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-185" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Weights Buffer" vertex="1">
+          <mxGeometry height="90" width="113" x="826" y="9971" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;N&lt;sub&gt;w&lt;/sub&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="30" x="879" y="10077" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-189" edge="1" parent="1" source="_T9D29cwmJARafUkA6Xj-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="_T9D29cwmJARafUkA6Xj-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-188" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="ROM" vertex="1">
+          <mxGeometry height="64" width="60" x="741" y="10036" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;K&lt;sub&gt;max &lt;/sub&gt;* N&lt;sub&gt;w&lt;/sub&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="60" x="672" y="10077" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-191" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="882" y="10310" as="sourcePoint" />
+            <mxPoint x="882" y="10350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-192" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;N&lt;sub&gt;w&lt;/sub&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="30" x="879" y="10315" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
