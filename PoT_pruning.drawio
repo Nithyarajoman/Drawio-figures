@@ -6770,7 +6770,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Dense1" vertex="1">
-          <mxGeometry height="120" width="60" x="116" y="9890" as="geometry" />
+          <mxGeometry height="120" width="60" x="121" y="9890" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-68" edge="1" parent="1" source="_T9D29cwmJARafUkA6Xj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -6811,7 +6811,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#d9d9d9, #202020);strokeColor=#36393d;" value="Weights&lt;sub&gt;row &lt;/sub&gt;rearranged wrt ILP&lt;sub&gt;dense2&lt;/sub&gt;" vertex="1">
-          <mxGeometry height="64" width="69" x="181" y="9840" as="geometry" />
+          <mxGeometry height="64" width="69" x="184" y="9840" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-75" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-48" y="9950" as="sourcePoint" />
+            <mxPoint x="-14" y="9950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="220" width="300" x="110" y="9800" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-77" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;MLP&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="231" y="9802" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
