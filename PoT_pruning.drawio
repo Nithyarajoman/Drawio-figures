@@ -6763,22 +6763,22 @@
         <mxCell id="_T9D29cwmJARafUkA6Xj-64" edge="1" parent="1" source="_T9D29cwmJARafUkA6Xj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_T9D29cwmJARafUkA6Xj-63" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_T9D29cwmJARafUkA6Xj-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="LN" vertex="1">
+        <mxCell id="_T9D29cwmJARafUkA6Xj-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="LN" vertex="1">
           <mxGeometry height="80" width="36" x="-13" y="9910" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-66" edge="1" parent="1" source="_T9D29cwmJARafUkA6Xj-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_T9D29cwmJARafUkA6Xj-65" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_T9D29cwmJARafUkA6Xj-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="Dense1" vertex="1">
+        <mxCell id="_T9D29cwmJARafUkA6Xj-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Dense1" vertex="1">
           <mxGeometry height="120" width="60" x="116" y="9890" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-68" edge="1" parent="1" source="_T9D29cwmJARafUkA6Xj-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_T9D29cwmJARafUkA6Xj-67" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_T9D29cwmJARafUkA6Xj-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="GELU" vertex="1">
+        <mxCell id="_T9D29cwmJARafUkA6Xj-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="GELU" vertex="1">
           <mxGeometry height="80" width="44" x="256" y="9910" as="geometry" />
         </mxCell>
-        <mxCell id="_T9D29cwmJARafUkA6Xj-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="Dense2" vertex="1">
+        <mxCell id="_T9D29cwmJARafUkA6Xj-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Dense2" vertex="1">
           <mxGeometry height="120" width="60" x="382" y="9890" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-69" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
@@ -6797,7 +6797,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_T9D29cwmJARafUkA6Xj-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ROM: ILP&lt;sub&gt;dense1&lt;/sub&gt; Indices" vertex="1">
+        <mxCell id="_T9D29cwmJARafUkA6Xj-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#d9d9d9, #202020);strokeColor=#36393d;" value="ROM: ILP&lt;sub&gt;dense1&lt;/sub&gt; Indices" vertex="1">
           <mxGeometry height="52" width="60" x="40" y="9873" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-73" edge="1" parent="1" source="_T9D29cwmJARafUkA6Xj-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
@@ -6808,7 +6808,7 @@
             <mxPoint x="146" y="9889" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_T9D29cwmJARafUkA6Xj-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Weights&lt;sub&gt;row &lt;/sub&gt;rearranged wrt ILP&lt;sub&gt;dense2&lt;/sub&gt;" vertex="1">
+        <mxCell id="_T9D29cwmJARafUkA6Xj-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#d9d9d9, #202020);strokeColor=#36393d;" value="Weights&lt;sub&gt;row &lt;/sub&gt;rearranged wrt ILP&lt;sub&gt;dense2&lt;/sub&gt;" vertex="1">
           <mxGeometry height="64" width="69" x="181" y="9840" as="geometry" />
         </mxCell>
       </root>
