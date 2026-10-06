@@ -6797,8 +6797,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_T9D29cwmJARafUkA6Xj-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ROM: ILP Indices" vertex="1">
-          <mxGeometry height="27" width="60" x="40" y="9890" as="geometry" />
+        <mxCell id="_T9D29cwmJARafUkA6Xj-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ROM: ILP&lt;sub&gt;dense1&lt;/sub&gt; Indices" vertex="1">
+          <mxGeometry height="52" width="60" x="40" y="9873" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-73" edge="1" parent="1" source="_T9D29cwmJARafUkA6Xj-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="146" y="9879.03" />
+            </Array>
+            <mxPoint x="146" y="9889" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Weights&lt;sub&gt;row &lt;/sub&gt;rearranged wrt ILP&lt;sub&gt;dense2&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="64" width="69" x="181" y="9840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
