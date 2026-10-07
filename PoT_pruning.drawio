@@ -6790,7 +6790,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Processing in ILP&lt;sub&gt;dense1&lt;/sub&gt; order" vertex="1">
-          <mxGeometry height="40" width="90" x="20" y="9932" as="geometry" />
+          <mxGeometry height="40" width="90" x="20" y="9931" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-72" edge="1" parent="1" source="_T9D29cwmJARafUkA6Xj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_T9D29cwmJARafUkA6Xj-62" value="">
           <mxGeometry relative="1" as="geometry">
