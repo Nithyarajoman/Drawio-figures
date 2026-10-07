@@ -7205,6 +7205,45 @@
         <mxCell id="_T9D29cwmJARafUkA6Xj-200" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;grp&lt;sub&gt;1k&lt;/sub&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="10" width="20" x="866" y="10041" as="geometry" />
         </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-201" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Matrix multiplications&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="386" x="330" y="10220" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-204" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="a&lt;sub&gt;11 &lt;/sub&gt;a&lt;sub&gt;12 &lt;/sub&gt;a&lt;sub&gt;13 &lt;/sub&gt;a&lt;sub&gt;14 &lt;/sub&gt;a&lt;sub&gt;15 &lt;/sub&gt;................. a&lt;sub&gt;1B&lt;/sub&gt;&lt;div&gt;a&lt;sub&gt;21&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;22&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;23&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;24&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;25&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;2B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;31&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;32&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;33&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;34&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;35&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;3B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;41&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;42&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;43&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;44&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;45&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;4B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;A1&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A2&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A3&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A4&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A5&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;AB&lt;/sub&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="179" width="201" x="199" y="10320" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-205" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="w&lt;sub&gt;11 &lt;/sub&gt;w&lt;sub&gt;12 &lt;/sub&gt;w&lt;sub&gt;13&lt;/sub&gt;&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;1C&lt;/sub&gt;&lt;div&gt;w&lt;sub&gt;21&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;22&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;23&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;2C&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;w&lt;sub&gt;31&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;32&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;33&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;3C&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;w&lt;sub&gt;41&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;42&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;43&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;4C&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;w&lt;sub&gt;A1&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;A2&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;A3&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;AC&lt;/sub&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="179" width="162" x="499" y="10320" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-206" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.multiplier;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="425" y="10388" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-207" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="688" y="10400" as="sourcePoint" />
+            <mxPoint x="748" y="10400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-208" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;A&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="160" y="10400" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-209" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;B&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="273" y="10296" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-210" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;C&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="556" y="10297" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-211" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;B&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="461" y="10399" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-212" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="a&lt;sub&gt;11 &lt;/sub&gt;a&lt;sub&gt;12 &lt;/sub&gt;a&lt;sub&gt;13 &lt;/sub&gt;a&lt;sub&gt;14 &lt;/sub&gt;a&lt;sub&gt;15 &lt;/sub&gt;................. a&lt;sub&gt;1B&lt;/sub&gt;&lt;div&gt;a&lt;sub&gt;21&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;22&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;23&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;24&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;25&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;2B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;31&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;32&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;33&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;34&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;35&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;3B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;41&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;42&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;43&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;44&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;45&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;4B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;A1&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A2&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A3&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A4&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A5&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;AB&lt;/sub&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="179" width="201" x="787" y="10319" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-213" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;A&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="748" y="10399" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-214" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;C&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="856" y="10296" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
