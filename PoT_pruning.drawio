@@ -7466,6 +7466,9 @@
         <mxCell id="_T9D29cwmJARafUkA6Xj-309" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Changing output weight dimension: cols&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="386" x="484" y="10821" as="geometry" />
         </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-310" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Changing output weight dimension: rows, also chunking&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="386" x="511" y="11170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
