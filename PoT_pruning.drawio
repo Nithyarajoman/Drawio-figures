@@ -7583,6 +7583,27 @@
             <mxPoint x="914" y="11235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-347" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="a&lt;sub&gt;14&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;17&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;18&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;12&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;15 &lt;/sub&gt;................. a&lt;sub&gt;1B&lt;/sub&gt;&lt;div&gt;a&lt;sub&gt;24&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;27&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;28&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;22&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;25&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;2B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;34&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;37&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;38&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;32&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;35&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;3B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;44&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;47&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;48&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;42&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;45&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;4B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;A4&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A7&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A8&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A2&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A5&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;AB&lt;/sub&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="179" width="201" x="200" y="11619" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-348" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;A&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="164" y="11689" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-349" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;B&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="274" y="11595" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-350" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 102);&quot;&gt;Order changed to chunk N&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="17" width="129" x="236" y="11615" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-351" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3399FF;" value="" vertex="1">
+          <mxGeometry height="17" width="190" x="205" y="11634" as="geometry" />
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-352" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=1 1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="303.71000000000004" y="11604" as="sourcePoint" />
+            <mxPoint x="303.71000000000004" y="11584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
