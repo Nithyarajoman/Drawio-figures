@@ -7607,11 +7607,11 @@
         <mxCell id="_T9D29cwmJARafUkA6Xj-353" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Changing output weight dimension: rows, also chunking&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="386" x="465" y="11900" as="geometry" />
         </mxCell>
-        <mxCell id="_T9D29cwmJARafUkA6Xj-355" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="w&lt;sub&gt;12&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;15&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;120&lt;/sub&gt;&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;1C&lt;/sub&gt;&lt;div&gt;w&lt;sub&gt;22&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;25&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;220&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;2C&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;w&lt;sub&gt;32&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;35&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;320&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;3C&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;w&lt;sub&gt;42&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;45&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;420&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;4C&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;w&lt;sub&gt;B2&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;B5&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;B20&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;BC&lt;/sub&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="_T9D29cwmJARafUkA6Xj-355" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="w&lt;sub&gt;12&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;15&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;120&lt;/sub&gt;&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;1C&lt;/sub&gt;&lt;div&gt;w&lt;sub&gt;22&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;25&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;220&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;2C&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;w&lt;sub&gt;31&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;33&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;350&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;3C&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;w&lt;sub&gt;41&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;43&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;450&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;4C&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;w&lt;sub&gt;B6&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;B4&amp;nbsp;&lt;/sub&gt;w&lt;sub&gt;B39&amp;nbsp;&lt;/sub&gt;................. w&lt;sub&gt;BC&lt;/sub&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="179" width="162" x="506" y="12171" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-356" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.multiplier;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="432" y="12239" as="geometry" />
+          <mxGeometry height="30" width="30" x="439" y="12245" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-357" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
@@ -7665,22 +7665,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-376" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=0;" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Chunk size&lt;/font&gt;" vertex="1">
-          <mxGeometry height="39" width="12" x="485" y="12176" as="geometry" />
+          <mxGeometry height="39" width="12" x="486" y="12176" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-377" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="a&lt;sub&gt;11&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;12&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;13&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;14&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;15&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;1B&lt;/sub&gt;&lt;div&gt;a&lt;sub&gt;21&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;22&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;23&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;24&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;25&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;2B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;31&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;32&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;33&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;34&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;35&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;3B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;41&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;42&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;43&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;44&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;45&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;4B&lt;/sub&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;&lt;sub&gt;.&lt;/sub&gt;&lt;/div&gt;&lt;div&gt;a&lt;sub&gt;A1&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A2&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A3&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A4&amp;nbsp;&lt;/sub&gt;a&lt;sub&gt;A5&amp;nbsp;&lt;/sub&gt;................. a&lt;sub&gt;AB&lt;/sub&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="179" width="201" x="199" y="12163" as="geometry" />
+          <mxGeometry height="179" width="201" x="199" y="12169" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-378" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;A&lt;/b&gt;" vertex="1">
-          <mxGeometry height="17" width="30" x="170" y="12236" as="geometry" />
+          <mxGeometry height="17" width="30" x="170" y="12242" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-379" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;B&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="273" y="12139" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-380" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 102);&quot;&gt;Order changed to chunk 1&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="17" width="129" x="235" y="12159" as="geometry" />
-        </mxCell>
-        <mxCell id="_T9D29cwmJARafUkA6Xj-381" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9999FF;" value="" vertex="1">
-          <mxGeometry height="17" width="190" x="204" y="12178" as="geometry" />
+          <mxGeometry height="17" width="129" x="235" y="12165" as="geometry" />
         </mxCell>
         <mxCell id="_T9D29cwmJARafUkA6Xj-382" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;direction=south;strokeColor=#3700CC;" value="" vertex="1">
           <mxGeometry height="163" width="22" x="450" y="12330" as="geometry" />
@@ -7705,6 +7702,9 @@
             <mxPoint x="496" y="12253.8" as="sourcePoint" />
             <mxPoint x="678" y="12253.8" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_T9D29cwmJARafUkA6Xj-393" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="17" width="190" x="204" y="12184" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
