@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="kKW40RGhzxt-nA1hXfdI">
-    <mxGraphModel dx="971" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1222" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10328,11 +10328,6 @@
         <mxCell id="QXKWC5lOvL2VpqdYPRR_-1003" parent="QXKWC5lOvL2VpqdYPRR_-783" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="COMPUTE ENGINE N" vertex="1">
           <mxGeometry height="30" width="129.45" x="134" as="geometry" />
         </mxCell>
-        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1005" edge="1" parent="1" source="QXKWC5lOvL2VpqdYPRR_-562" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
-          <mxGeometry relative="1" x="-0.0385" as="geometry">
-            <mxPoint x="599.53" y="10960" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QXKWC5lOvL2VpqdYPRR_-1007" edge="1" parent="1" style="endArrow=openThin;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.124;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="470" y="10789" as="sourcePoint" />
@@ -10343,6 +10338,12 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="470" y="11033" as="sourcePoint" />
             <mxPoint x="482" y="11060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1009" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.532;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="QXKWC5lOvL2VpqdYPRR_-562" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="610.33" y="10960" as="sourcePoint" />
+            <mxPoint x="640" y="10950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
