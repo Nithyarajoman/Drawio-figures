@@ -10523,7 +10523,7 @@
             <mxPoint x="1190" y="11769" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1056" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="C&lt;sub&gt;out&amp;nbsp;&lt;/sub&gt;= 128" vertex="1">
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1056" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="C&lt;sub&gt;out&amp;nbsp;&lt;/sub&gt;= 512" vertex="1">
           <mxGeometry height="30" width="60" x="1100" y="11766" as="geometry" />
         </mxCell>
       </root>
