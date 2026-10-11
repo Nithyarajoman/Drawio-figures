@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="kKW40RGhzxt-nA1hXfdI">
-    <mxGraphModel dx="2112" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1222" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10525,6 +10525,30 @@
         </mxCell>
         <mxCell id="QXKWC5lOvL2VpqdYPRR_-1056" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="C&lt;sub&gt;out&amp;nbsp;&lt;/sub&gt;= 512" vertex="1">
           <mxGeometry height="30" width="60" x="1100" y="11766" as="geometry" />
+        </mxCell>
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1057" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Bank 0&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="129.45" x="310" y="11840" as="geometry" />
+        </mxCell>
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1058" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Tokens&lt;br&gt;&lt;div&gt;X&lt;sub&gt;0&lt;/sub&gt; ∈ R&lt;sup&gt;128*(0:783)*1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59.72" width="121.72" x="313.87" y="11899" as="geometry" />
+        </mxCell>
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1059" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Bank 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="129.45" x="520" y="11840" as="geometry" />
+        </mxCell>
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1060" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Tokens&lt;br&gt;&lt;div&gt;X ∈ R&lt;sup&gt;128*(784:1567)*1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59.72" width="121.72" x="523.73" y="11900" as="geometry" />
+        </mxCell>
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1061" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Bank 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="129.45" x="733" y="11840" as="geometry" />
+        </mxCell>
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1062" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;Tokens&lt;/div&gt;&lt;div&gt;X ∈ R&lt;sup&gt;128*(1568:2351)*1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59.72" width="121.72" x="736.73" y="11900" as="geometry" />
+        </mxCell>
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1063" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Bank 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="129.45" x="950" y="11840" as="geometry" />
+        </mxCell>
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1064" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Tokens&lt;br&gt;&lt;div&gt;X ∈ R&lt;sup&gt;128*(2352:3135)*1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59.72" width="121.72" x="953.73" y="11900" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
