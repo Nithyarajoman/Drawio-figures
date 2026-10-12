@@ -12276,7 +12276,7 @@
             <mxPoint x="-20" y="13550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIsYhJw8N1b_8QDkG0_s-467" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Accumulated output for output channels C&lt;sub&gt;0&lt;/sub&gt; to C&lt;sub&gt;M&lt;/sub&gt; , tokens 1-784&lt;/b&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="tIsYhJw8N1b_8QDkG0_s-467" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;Y[t&lt;sub&gt;1&lt;/sub&gt;:t&lt;sub&gt;784&lt;/sub&gt;, C&lt;sub&gt;0&lt;/sub&gt;:C&lt;sub&gt;15&lt;/sub&gt;] generated&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="1394" x="-20" y="13874.5" as="geometry" />
         </mxCell>
         <mxCell id="tIsYhJw8N1b_8QDkG0_s-468" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
