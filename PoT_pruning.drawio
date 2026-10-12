@@ -10538,13 +10538,13 @@
         <mxCell id="QXKWC5lOvL2VpqdYPRR_-1060" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Tokens&lt;br&gt;&lt;div&gt;X ∈ R&lt;sup&gt;128*(784:1567)*1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="59.72" width="121.72" x="523.73" y="11900" as="geometry" />
         </mxCell>
-        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1061" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Bank 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1061" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Bank 2&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="129.45" x="733" y="11840" as="geometry" />
         </mxCell>
         <mxCell id="QXKWC5lOvL2VpqdYPRR_-1062" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;Tokens&lt;/div&gt;&lt;div&gt;X ∈ R&lt;sup&gt;128*(1568:2351)*1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="59.72" width="121.72" x="736.73" y="11900" as="geometry" />
         </mxCell>
-        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1063" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Bank 1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="QXKWC5lOvL2VpqdYPRR_-1063" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Bank 3&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="129.45" x="950" y="11840" as="geometry" />
         </mxCell>
         <mxCell id="QXKWC5lOvL2VpqdYPRR_-1064" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Tokens&lt;br&gt;&lt;div&gt;X ∈ R&lt;sup&gt;128*(2352:3135)*1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
