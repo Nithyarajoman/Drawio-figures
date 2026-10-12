@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="kKW40RGhzxt-nA1hXfdI">
-    <mxGraphModel dx="1222" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="2646" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10549,6 +10549,9 @@
         </mxCell>
         <mxCell id="QXKWC5lOvL2VpqdYPRR_-1064" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Tokens&lt;br&gt;&lt;div&gt;X ∈ R&lt;sup&gt;128*(2352:3135)*1&lt;/sup&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="59.72" width="121.72" x="953.73" y="11900" as="geometry" />
+        </mxCell>
+        <mxCell id="tIsYhJw8N1b_8QDkG0_s-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Feeding one compute engine with N= 16 and M = 16&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="474.41" x="435.59" y="12200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
